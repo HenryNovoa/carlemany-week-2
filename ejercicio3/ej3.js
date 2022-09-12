@@ -3,7 +3,7 @@ function dialogue() {
   if (response === true) {
     alert("Has clicado OK");
   } else {
-    alert("Has clicado cancelar");
+    alert("Has clicado Cancelar");
   }
 }
 
